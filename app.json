@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LangApp",
+    "slug": "LangApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "LangApp"
+}
